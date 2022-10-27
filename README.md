@@ -4,3 +4,6 @@
 * php
 * mysql
 # 使用方法
+* 整個打包放到php上
+* 在database.php填寫mysql的資料
+#
