@@ -1,0 +1,9 @@
+.fix{
+	width:60px;
+	height:60px;
+	position:fixed;
+
+	right:0px;
+	bottom:0px;
+	z-index: 200;
+}
